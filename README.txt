@@ -1,1 +1,1 @@
-## Simple Andriod Calculator
+Simple Andriod Calculator
